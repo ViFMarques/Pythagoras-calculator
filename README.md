@@ -2,28 +2,25 @@
 <img src="imgs documentação/cromailogo.jfif" alt="logotipo" style="height: auto; width: 100%;">
 
 
-## Resumo:
-Dia 27/09/2022, recebi da empresa CROMAI a oportunidade de mostrar meu potencial atráves do desenvolvimento de uma aplicação web, que deveria ser entregue até o dia 03/10/2022.
+## Resumo
+Dia 27/09/2022, recebi da empresa CROMAI, a oportunidade de mostrar meu potencial atráves do desenvolvimento de uma aplicação web, que deveria ser entregue até o dia 03/10/2022. Desenvolvi uma calculadora, progamada na linguagem JavaScript, que aplica o teorema de Pitágoras à fim de descobrir o valor de um lado de um triângulo retângulo. 
 
-## O Desafio:
+## O Desafio
 <img src="imgs documentação/Desafio.jpg" alt="Folha com o deafio completo" style="height:auto; width:30%;">
 
-## Wireframes que criei:
+## Wireframe que criei
 <img src="imgs documentação/Wireframe.jpg" alt="Wireframe" style="height: auto; width:50%;">
 
-
-## Ferramentas utilizadas:
+## Ferramentas utilizadas
 
 |Função    | Plataforma  | Link de Acesso |
 |------|-----------------------------------------|----|
-| Versionamento de código |Github| [github.com](https://github.com/ViFMarques/Hackathon-StartSe)|
-| Organização de tarefas | Trello | [trello.com](https://trello.com/)|
-| Ferramenta de diagramação e projeto de interfaces | Canva | [Canva.com](https://www.canva.com/)|
+| Versionamento de código |Github| [github.com](https://github.com/ViFMarques/Pythagoras-calculator)|
+| Ferramenta de projeto de interfaces | Canva | [Canva.com](https://www.canva.com/)|
 | Editor de código | Visual Studio Code| [visualstudio.com](https://code.visualstudio.com/)|
 
 
-
-## Tecnologias utilizadas:
+## Tecnologias utilizadas
 
 | Função | Nome | Link de acesso |
 |---------------------|----------------|----------|
@@ -34,4 +31,6 @@ Dia 27/09/2022, recebi da empresa CROMAI a oportunidade de mostrar meu potencial
 
 
 ## Resultado Final
-A aplicação foi publicada no GitHub pages! Confira neste link: 
+A aplicação está no GitHub pages! Confira neste link: 
+
+<img src="imgs documentação/resultado.png" alt="Wireframe" style="height: auto; width:60%;">
