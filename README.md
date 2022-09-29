@@ -1,13 +1,15 @@
-# Pythagoras calculator challenge
+# Pythagoras calculator challenge                         
+<img src="imgs documentação/cromailogo.jfif" alt="logotipo" style="height: auto; width: 100%;">
+
 
 ## Resumo:
-Dia 27/09/22, recebi da empresa CROMAI a oportunidade de mostrar meu potencial atráves do desenvolvimento de uma aplicação web, que deveria ser entregue até o dia 03/10/2022.
+Dia 27/09/2022, recebi da empresa CROMAI a oportunidade de mostrar meu potencial atráves do desenvolvimento de uma aplicação web, que deveria ser entregue até o dia 03/10/2022.
 
-## O problema:
-img da folha
+## O Desafio:
+<img src="imgs documentação/Desafio.jpg" alt="Folha com o deafio completo" style="height:auto; width:30%;">
 
-## Wireframe:
-img da wireframe
+## Wireframes que criei:
+<img src="imgs documentação/Wireframe.jpg" alt="Wireframe" style="height: auto; width:50%;">
 
 
 ## Ferramentas utilizadas:
@@ -29,8 +31,7 @@ img da wireframe
 | Estilização da página web | CSS |[developer.mozilla](https://developer.mozilla.org/pt-BR/docs/Web/CSS)| 
 | Manipulação de dados e funcionalidades |JavaScript |[javascript.com](https://www.javascript.com/)|
 | Fontes customizadas |Google Fontes |[fonts.google.com](https://fonts.google.com/)|
-| Sistema de servidores nuvem | Heroku | [heroku.com](https://www.heroku.com/)|
-| Manipulação do banco de dados| PHP |[php.com](https://www.php.net/)|
+
 
 ## Resultado Final
 A aplicação foi publicada no GitHub pages! Confira neste link: 
