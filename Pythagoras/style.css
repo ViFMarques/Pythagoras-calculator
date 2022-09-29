@@ -1,0 +1,142 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    position: relative;
+} /*resetando o css*/
+
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap'); /*Itim Family - Biblioteca Google Fontes*/ 
+
+body {
+    background-image: url(./imgs/tree.png); 
+    background-color: #4b4b55;
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+} 
+header{
+    color: white;
+    text-align: center;
+    font-size: 1.8vw;
+    font-family: 'Itim', cursive;
+    position: relative;
+    margin-bottom: 4vw;    
+}
+aside {
+    margin-left: 4vw;
+    max-width: 25vw;
+    height: 50vh;
+}
+
+/* configuração da forma triangular central*/ 
+
+#triangle {
+	width: 0;
+	height: 0;
+	text-indent: -9999px;
+	border-bottom: 25vh solid #fb7b02;
+	border-right: 30vw solid transparent;
+}
+
+/* configuração inputs*/ 
+
+input::placeholder {
+    text-align: center;
+    font-weight: 20px;
+    font-family: 'Itim', cursive;
+    color: #000000;
+}
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+input {
+    height: 5.5vh;
+    width: 6vw;
+    border-radius: 10em;
+    text-align: center;
+    font-size: 1.4vw;
+    font-family: 'Itim', cursive;
+}
+
+#button {
+    height: 5.5vh;
+    width: 6vw;
+    border-radius: 10em;
+    background-color: #97eecd9f;
+    color: whitesmoke ;
+    font-size: 1.4vw;
+    font-family: 'Itim', cursive;
+    font-weight: 900;
+    cursor: pointer;   
+}
+#button:hover {
+    background-color: #55f1b4;
+    color: white;
+    transition-duration: 0.7s;
+}
+#result {
+    text-align: center;
+    font-size: 1.4vw;
+    font-family: 'Itim', cursive;   
+}
+
+/* Responsividade e colunas*/ 
+
+#container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    align-items: center;    
+}
+#resultSquare {
+    height: 6vh;
+    width: 6vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10em;   
+    background-color: rgb(245, 245, 245);
+    position: relative;
+}
+.column1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    flex: 10%;       
+}
+.column2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 35%;
+}
+.column3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    flex: 30%;
+}
+
+/* configuração dos textos*/ 
+
+h2{
+    color: #55f1b4;
+    font-size: 2vw;
+    font-family: 'Itim', cursive;
+}
+ p {
+    color: #fb7b02;
+    font-size: 1.4vw;
+    font-family: 'Itim', cursive;
+    font-weight: 500;
+}
+#color{
+    color: #55f1b4;
+}

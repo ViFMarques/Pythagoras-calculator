@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="./imgs/calculator2.png" type="image/x-icon">
+    <title> Simples de calcular </title>
+</head>
+
+<body>
+    <header>
+        <h1> Uma calculadora para <br> Pitágoras</h1>
+    </header>
+
+    <main>
+        <aside>
+            <h2>Não sabe como usar? &#129320; </h2><br>
+            <p> Basta inserir algum valor na bolinha do lado A e na do lado B, depois pressione o botão "calcular" ou "Enter" e você terá o valor do lado C. </p><br>
+            <p> Também é possível calcular valores negativos ou quebrados, mas o resultado sempre irá aparecer arredondado. </p><br>
+            <p id="color"> <strong> Ex: &#127344; 2.5 &#127345; -4 &#10145; C = 5 </strong></p>
+        </aside>
+
+        <div id="container">
+            <div class="column1">
+                <input type="number" placeholder="A" id="InputA"><br><br> 
+                <button id="button"> Calcular </button>
+            </div>
+            
+            <div class="column2">
+                <div id="triangle"></div><br> 
+                <input type="number" placeholder="B" id="InputB">
+            </div>
+
+            <div class="column3">
+                <div id="resultSquare">
+                    <div id="result"> C </div>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+<script src="calculate.js"></script>
+</html>
