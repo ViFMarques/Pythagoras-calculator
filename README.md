@@ -9,7 +9,7 @@ Dia 27/09/2022, recebi da empresa CROMAI, a oportunidade de mostrar meu potencia
 <img src="imgs documentação/Desafio.jpg" alt="Folha com o deafio completo" style="height:auto; width:30%;">
 
 ## Wireframe que criei
-<img src="imgs documentação/Wireframe.jpg" alt="Wireframe" style="height: auto; width:50%;">
+<img src="imgs documentação/Wireframe.jpg" alt="Wireframe" style="height: auto; width:40%;">
 
 ## Ferramentas utilizadas
 
@@ -33,9 +33,11 @@ Dia 27/09/2022, recebi da empresa CROMAI, a oportunidade de mostrar meu potencia
 ## Resultado Final
 A aplicação está no GitHub pages! Teste neste link: https://vifmarques.github.io/Pythagoras-calculator/
 
-A imagem abaixo apresenta o resultado em dimensões padrão.
-<img src="imgs documentação/resultado.png" alt="Resultado" style="height: auto; width:60%;">
+A imagem abaixo apresenta o resultado em dimensões padrão:
+
+<img src="imgs documentação/resultado.png" alt="Resultado" style="height: auto; width:50%;">
  
-A imagem abaixo apresenta o resultado em dimensões menores, afim de mostrar a responsividade da aplicação.
-<img src="imgs documentação/resultadoresponsivo.png" alt="Resultado responsividade" style="height: auto; width:50%;">
+A imagem abaixo apresenta o resultado em dimensões menores, afim de mostrar a responsividade da aplicação:
+
+<img src="imgs documentação/resultadoresponsivo.png" alt="Resultado responsividade" style="height: auto; width:40%;">
  
