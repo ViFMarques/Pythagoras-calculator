@@ -3,7 +3,7 @@
 
 
 ## Resumo
-Dia 27/09/2022, recebi da empresa CROMAI, a oportunidade de mostrar meu potencial atráves do desenvolvimento de uma aplicação web, que deveria ser entregue até o dia 03/10/2022. Desenvolvi uma calculadora, progamada na linguagem JavaScript, que aplica o teorema de Pitágoras à fim de descobrir o valor de um lado de um triângulo retângulo. 
+Dia 27/09/2022, recebi da empresa CROMAI, a oportunidade de mostrar meu potencial atráves do desenvolvimento de uma aplicação web, que deveria ser entregue até o dia 03/10/2022. Desenvolvi uma aplicação web responsiva, que atua como uma calculadora. Foi progamada utilizando linguagem JavaScript, que aplica a fórmula de Pitágoras (c² = a² + b²) com o objetivo de descobrir o comprimento de um lado de um triângulo retângulo. 
 
 ## O Desafio
 <img src="imgs documentação/Desafio.jpg" alt="Folha com o deafio completo" style="height:auto; width:30%;">
@@ -31,6 +31,11 @@ Dia 27/09/2022, recebi da empresa CROMAI, a oportunidade de mostrar meu potencia
 
 
 ## Resultado Final
-A aplicação está no GitHub pages! Confira neste link: 
+A aplicação está no GitHub pages! Teste neste link: https://vifmarques.github.io/Pythagoras-calculator/
 
-<img src="imgs documentação/resultado.png" alt="Wireframe" style="height: auto; width:60%;">
+A imagem abaixo apresenta o resultado em dimensões padrão.
+<img src="imgs documentação/resultado.png" alt="Resultado" style="height: auto; width:60%;">
+ 
+A imagem abaixo apresenta o resultado em dimensões menores, afim de mostrar a responsividade da aplicação.
+<img src="imgs documentação/resultadoresponsivo.png" alt="Resultado responsividade" style="height: auto; width:50%;">
+ 
