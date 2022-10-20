@@ -3,7 +3,7 @@
 
 
 ## Resumo
-Dia 27/09/2022, recebi da empresa CROMAI, a oportunidade de mostrar meu potencial atráves do desenvolvimento de uma aplicação web, que deveria ser entregue até o dia 03/10/2022. Desenvolvi uma aplicação web responsiva, que atua como uma calculadora. Foi progamada utilizando linguagem JavaScript, que aplica a fórmula de Pitágoras (c² = a² + b²) com o objetivo de descobrir o comprimento de um lado de um triângulo retângulo. 
+Dia 27/09/2022, recebi da empresa CROMAI, a oportunidade de mostrar meu potencial atráves do desenvolvimento de uma aplicação web. Desenvolvi uma aplicação web responsiva, que atua como uma calculadora. Foi progamada utilizando linguagem JavaScript, que aplica a fórmula de Pitágoras (c² = a² + b²) com o objetivo de descobrir o comprimento de um lado de um triângulo retângulo. 
 
 ## O Desafio
 <img src="imgs documentação/Desafio.jpg" alt="Folha com o deafio completo" style="height:auto; width:30%;">
