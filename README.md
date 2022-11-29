@@ -1,5 +1,4 @@
 # Pythagoras calculator challenge                         
-<img src="imgs documentação/cromailogo.jfif" alt="logotipo" style="height: auto; width: 100%;">
 
 
 ## Resumo
